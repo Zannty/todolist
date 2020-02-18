@@ -1,0 +1,12 @@
+input {
+  border: rgb(200, 204, 202) solid 1px;
+  border-radius: 0.3em;
+  margin-right: 0.3em;
+  padding-left: 1em;
+  width: 20em;
+  height: 2.37em;
+}
+input:hover {
+  border: rgb(200, 204, 202) solid 1px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Параметры тени */
+}
